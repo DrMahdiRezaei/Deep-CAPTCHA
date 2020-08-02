@@ -1,9 +1,9 @@
 # Deep-CAPTCHA
-Solving CAPTCHA using Convolutional Neural Network
+Solving CAPTCHAs using Convolutional Neural Network
 
-This project tries to solve python-generated CAPTCHAs using Convolutional Neural Network. By running the program, an specific amount of CAPTCHAs will be generated in a folder which then are used as the training set for the network.
+This project aims at predicting and solving python-generated CAPTCHAs, using Convolutional Neural Network to detent vulnerability of the generated CAPTCHAs. By running the program, an specific amount of CAPTCHAs will be generated in a folder which then are used as the training set of the network.
 
-## How to run
+## How to run?
 To run the code, the following python packages are required:
 - captcha 
 - opencv-python
